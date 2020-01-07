@@ -2,7 +2,7 @@
     "name": "allomancer-vscode",
     "displayName": "Allomancer",
     "description": "Vim's allomancer theme for vscode",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "maneeshjohn",
     "engines": {
         "vscode": "^1.41.0"

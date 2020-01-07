@@ -143,6 +143,15 @@
 			}
 		},
 		{
+			"name": "JSX Children",
+			"scope": [
+				"meta.jsx.children.js.jsx"
+			],
+			"settings": {
+				"foreground": "#ccdddd"
+			}
+		},
+		{
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
