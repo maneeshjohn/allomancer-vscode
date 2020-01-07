@@ -1,8 +1,9 @@
 {
     "name": "allomancer-vscode",
-    "displayName": "allomancer-vscode",
-    "description": "vim's allomancer theme for vscode",
+    "displayName": "Allomancer",
+    "description": "Vim's allomancer theme for vscode",
     "version": "1.0.0",
+    "publisher": "maneeshjohn",
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -17,5 +18,15 @@
                 "path": "./themes/allomancer-color-theme.json"
             }
         ]
+    },
+    "keywords": [
+        "allomancer",
+        "dark",
+        "theme",
+        "material"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maneeshjohn/allomancer-vscode"
     }
 }
