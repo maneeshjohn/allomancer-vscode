@@ -1,0 +1,21 @@
+{
+    "name": "allomancer-vscode",
+    "displayName": "allomancer-vscode",
+    "description": "vim's allomancer theme for vscode",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "allomancer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/allomancer-color-theme.json"
+            }
+        ]
+    }
+}
